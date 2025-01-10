@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anura\\Documents\\Tech Projects\\LoopsAndBraces\\API\\LoopsAndBraces.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D275C5-46B4-4E18-8D4B-0F5C3C613868}|LoopsAndBraces.API\\LoopsAndBraces.API.csproj|c:\\users\\anura\\documents\\tech projects\\loopsandbraces\\api\\loopsandbraces.api\\loopsandbraces.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D275C5-46B4-4E18-8D4B-0F5C3C613868}|LoopsAndBraces.API\\LoopsAndBraces.API.csproj|solutionrelative:loopsandbraces.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D275C5-46B4-4E18-8D4B-0F5C3C613868}|LoopsAndBraces.API\\LoopsAndBraces.API.csproj|c:\\users\\anura\\documents\\tech projects\\loopsandbraces\\api\\loopsandbraces.api\\loopsandbraces.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D275C5-46B4-4E18-8D4B-0F5C3C613868}|LoopsAndBraces.API\\LoopsAndBraces.API.csproj|solutionrelative:loopsandbraces.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\anura\\Documents\\Tech Projects\\LoopsAndBraces\\API\\LoopsAndBraces.API\\LoopsAndBraces.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LoopsAndBraces.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\anura\\Documents\\Tech Projects\\LoopsAndBraces\\API\\LoopsAndBraces.API\\LoopsAndBraces.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LoopsAndBraces.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:07:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\anura\\Documents\\Tech Projects\\LoopsAndBraces\\API\\LoopsAndBraces.API\\LoopsAndBraces.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LoopsAndBraces.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\anura\\Documents\\Tech Projects\\LoopsAndBraces\\API\\LoopsAndBraces.API\\LoopsAndBraces.API\\WeatherForecast.cs",
+              "RelativeToolTip": "LoopsAndBraces.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:05:55.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
